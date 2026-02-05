@@ -1,0 +1,9 @@
+1. Alter the config.json file! You need to replace YOUR_USERNAME with your university username, and YOUR_PASSWORD with your university password.
+   You can also alter the filename if you'd like the output file to be different, to do this replace "timetable" with "YourNewFilename"
+   You can adjust the description format that will appear on google calendar by modifying  the subject_format. code_and_title will give the module code - module title, e.g. "COMP202 - Complexity of Algorithms", or you can use the code "code" to just get "COMP202" or just use "title" to get "Complexity of Algorithms".
+2. When running the program, you will need to read the code from your device and enter it into your duo authentication app. Then click "Yes, this is my device" or "This device is shared", doesn't matter which.
+3. Wait for the program to terminate then your outputted file is ready.
+4. Go to google calendar, and press + next to Other calendars then "Create new calendar" to create a new calendar. Name this calendar appropriately, such as "University Timetable". This is so you can toggle the view on and off for your timetable, and delete all events easily.
+5. Then go to the settings icon, click settings then click "Import & export". Then click "Select file from your computer" and navigate to the folder the program is located in and select your output file.
+6. Click on the drop down menu titled Add to calendar and select the new calendar you created. Then press import and the process is complete.
+7. To be safe, then return to where you setup the config file, delete the username and password. (This isn't necessary, just means you're extra safe c: )

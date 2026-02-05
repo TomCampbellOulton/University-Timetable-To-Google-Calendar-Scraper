@@ -1,0 +1,20 @@
+{
+  "url": "https://timetables.liverpool.ac.uk",
+  "login": {
+    "username": "YOUR_USERNAME@liverpool.ac.uk",
+    "password": "YOUR_PASSWORD"
+  },
+  "output": {
+    "filename": "timetable.csv",
+    "weeks": 15
+  },
+  "calendar": {
+    "name": "My Uni Timetable",
+    "default_colours": [5, 6, 1, 9, 12]
+  },
+  "event_defaults": {
+    "description": "University Lecture",
+    "private": "False"
+    },
+  "subject_format": "code-title"
+}
